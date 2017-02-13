@@ -15,8 +15,5 @@ Login Form example with username and password
 <img src="Screenshorts_example/registrationForm_html.png" width="447"><br/>
 Registration Form with The fields of name,email,password,phone and address
 
-<img src="Screenshorts_example/updateForm_html.png" width="447"><br/>
-Update Form which takes email as id and it will update the records using email field.
-
 <img src="Screenshorts_example/deleteForm_html.png" width="447"><br/>
 Delete Form which takes email as id and it will delete the records using email field.
